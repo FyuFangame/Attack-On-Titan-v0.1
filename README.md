@@ -12,7 +12,8 @@ Pour l'installer vous devrez :
 - Profitez et amusez vous
 
 🚧 Je préviens d'avance que quand vous aurez installé le fichier cela vous dira que c'est un VIRUS !
-🔑 Le jeu est fait avec un FIW ( Fichiers Incompatibles Windows ) donc votre anti-virus Windows n'acceptera pas un jeu fait avec ceci. Alors que faire ?
+
+🔑 Le jeu est fait avec un FIW ( Fichiers Incompatibles Windows ) donc votre anti-virus Windows n'acceptera pas un jeu fait avec ceci. 
 
 ❓ Alors que faire ?
 
