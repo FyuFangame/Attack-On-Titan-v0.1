@@ -15,6 +15,7 @@ Pour l'installer vous devrez :
 🔑 Le jeu est fait avec un FIW ( Fichiers Incompatibles Windows ) donc votre anti-virus Windows n'acceptera pas un jeu fait avec ceci. Alors que faire ?
 
 ❓ Alors que faire ?
+
 ✅ Vous devrez tout simplement désactiver l'anti-virus windows en marquant "Protection contre les virus et les menaces" puis cliquer sur "Gérer les parametres" puis décocher la case.
 
 -----------------------------------------------------
@@ -34,6 +35,7 @@ To install it you will need:
 🔑 The game is made with an FIW (Windows Incompatible Files) so your Windows anti-virus will not accept a game made with this. So what to do?
 
 ❓ So what to do?
+
 ✅ You will simply have to deactivate the windows anti-virus by marking "Protection against viruses and threats" then click on "Manage settings" then uncheck the box.
 
 -----------------------------------------------------
@@ -53,6 +55,7 @@ To install it you will need:
 🔑ゲームはFIW（Windows互換ファイル）で作成されているため、Windowsアンチウイルスはこれで作成されたゲームを受け入れません。 じゃあ何をすればいいの？
 
 ❓では、どうすればよいですか？
+
 ✅「ウイルスと脅威からの保護」をマークしてWindowsアンチウイルスを非アクティブ化し、「設定の管理」をクリックして、チェックボックスをオフにするだけです。
 
 -----------------------------------------------------
